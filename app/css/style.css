@@ -1,0 +1,14 @@
+body {
+  background-color: green; }
+  body p {
+    color: blue; }
+    body p a {
+      text-align: left; }
+
+table {
+  width: 100%; }
+  table th {
+    text-align: left; }
+    table th td {
+      color: red;
+      text-align: center; }
